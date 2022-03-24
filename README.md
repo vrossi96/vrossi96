@@ -35,3 +35,11 @@ Here are some ideas to get you started:
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrossi96&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vrossi96)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vrossi96)  
