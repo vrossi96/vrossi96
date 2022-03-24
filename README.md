@@ -38,8 +38,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vrossi96)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vrossi96)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vrossi96&theme=dark)  
