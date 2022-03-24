@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <img align='left' alt='css' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
 <img align='left' alt='javascript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <img align='left' alt='php' title="PHP" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" width='35'>
-<img align='left' alt='node' title="Node.js" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/> 
 <img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img align='left' alt='sass' title="SASS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='35'>
 <img align='left' alt='bootstrap' title="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" width='35'>
