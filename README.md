@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 ---
 
-// [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrossi96&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrossi96&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrossi96&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+--- -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vrossi96&theme=dark)  
